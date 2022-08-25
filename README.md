@@ -6,7 +6,7 @@
 
 skills: C# - learning Java - learning C++
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,cpp)]
+![skill](https://skillicons.dev/icons?i=cs,java,cpp)
 
 - currently working on learning languages and evolve
 - wanna talk?
