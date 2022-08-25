@@ -16,7 +16,7 @@ skills: C# - learning Java - learning C++
 
 github stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=lavafrai&theme=tokyonight&show_icons=true)  
+[![my stats](https://github-readme-stats.vercel.app/api?username=nukiz)](https://github.com/anuraghazra/github-readme-stats)
 
 ![github streaks](https://github-readme-streak-stats.herokuapp.com/?user=lavafrai&theme=tokyonight&show_icons=true)  
 
