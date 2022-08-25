@@ -1,12 +1,10 @@
-# quandale dingle here
+## hey, my name is nukiz
 
-### i barely know how to code
+### and i code stuff like cheats for games
 
 (https://discord.c99.nl/widget/theme-1/439125399235198976.png)
 
 skills: C# - learning Java - learning C++
-
-(cant actually code :D)
 
 ![skill](https://skillicons.dev/icons?i=cs,java,cpp)
 
