@@ -2,7 +2,7 @@
 
 ### i barely know how to code
 
-[![dis](https://discord.c99.nl/widget/theme-1/439125399235198976.png)](https://discord.com/users/439125399235198976/)
+[![dis]([https://discord.c99.nl/widget/theme-1/439125399235198976.png])
 
 skills: C# - learning Java - learning C++
 
