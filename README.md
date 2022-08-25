@@ -22,7 +22,8 @@ github stats
 
 language statistics ; note that some are forked repos
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lavafrai)
+[![top langs in my repos](https://github-readme-stats.vercel.app/api/top-langs/?username=nukiz?theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ArtemBay/Artembay/main/output/github-contribution-grid-snake.svg)
