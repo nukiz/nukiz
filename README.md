@@ -3,10 +3,6 @@
 ### and i code stuff like cheats for games
 
 
-[(https://discord.c99.nl/widget/theme-1/439125399235198976.png)](https://discord.c99.nl/widget/theme-1/439125399235198976.png)
-
-
-
 skills: C# - learning Java - learning C++
 
 ![skill](https://skillicons.dev/icons?i=cs,java,cpp)
