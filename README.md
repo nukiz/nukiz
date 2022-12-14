@@ -3,7 +3,7 @@
 ### and i code stuff like cheats for games
 
 
-skills: C# - learning Java - learning C++
+languages i use: 
 
 ![skill](https://skillicons.dev/icons?i=cs,lua,java)
 
