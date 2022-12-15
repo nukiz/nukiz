@@ -3,7 +3,6 @@
 
 ## Stuff that is/was under work: 
 
-- Ligma | Growtopia multitool, trying to make more server- than clientside features cause unique lol | (in the works)
 - MineSense | Sooner or later to be released Minecraft: Bedrock Edition Ghost cheat | (in the works)
 ### More private stuff:
 - exodus | Was a private, sub-type Growtopia multihack
