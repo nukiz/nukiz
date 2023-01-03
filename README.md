@@ -1,5 +1,5 @@
 ## I AM NUKIZ
-### I code in mostly C# and some variations of Lua.
+### all languages self-learnt (so not very good at all of them :D)
 
 ## Stuff that is/was under work: 
 
