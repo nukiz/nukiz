@@ -1,4 +1,10 @@
 ## I AM NUKIZ
+
+!["Steam"](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+!["Counter-Strike"](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
+!["Epic Games"](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
+!["Epic Games"](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+
 ### all languages self-learnt (so not very good at all of them :D)
 
 ## Stuff that is/was under work: 
