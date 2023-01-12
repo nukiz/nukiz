@@ -13,7 +13,8 @@
 
 ## Stuff that is/was under work: 
 
-- MineSense | Sooner or later to be released Minecraft: Bedrock Edition Ghost cheat | (in the works)
+- MineSense | Sooner or later to be released Minecraft: Bedrock Edition Ghost cheat | Now open-source!
+- koryn | Forge 1.12.2 utility mod aimed at anarchy servers and crystal pvp | Under work!
 ### More private stuff:
 - exodus | Was a private, sub-type Growtopia multihack
 - evolve | Was a private, sub-type multihack for many games
